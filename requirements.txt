@@ -1,0 +1,16 @@
+# make sure there were installed by the base
+numpy
+tensorflow-gpu~=2.3.0
+
+sklearn
+pandas
+matplotlib
+h5py
+Pillow
+h5py
+
+opencv-python
+
+tqdm
+
+ray[rllib]
