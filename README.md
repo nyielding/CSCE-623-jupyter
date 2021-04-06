@@ -1,2 +1,2 @@
-# EENG-645-Final_Project
-Deep Reinforcement Learning Final Project
+# CSCE-623-jupyter
+Setup of jupyterlab docker container for CSCE-623
