@@ -9,6 +9,7 @@ RUN apt-get update &&  DEBIAN_FRONTEND=noninteractive apt-get install -y --no-in
         # required for cv2
         libgl1-mesa-glx \
         xvfb \
+        wget \
     && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
         python3.8-venv \
     && apt-get clean \
